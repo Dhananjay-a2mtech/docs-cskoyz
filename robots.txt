@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-jecxz2.wecaring.org/sitemap.xml
